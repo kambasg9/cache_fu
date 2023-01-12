@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Expand Model method type hinting (#8279)
