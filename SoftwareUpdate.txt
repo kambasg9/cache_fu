@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Cleanup Docs languages (#7865)
