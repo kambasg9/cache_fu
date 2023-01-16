@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
