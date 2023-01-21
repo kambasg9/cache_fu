@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Add new YOLOv8 OBB model metrics (#7379)
