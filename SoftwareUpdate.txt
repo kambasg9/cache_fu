@@ -1,1 +1,1 @@
-update requirements.txt
+Add docs guide terminal images (#8819)
