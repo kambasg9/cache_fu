@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+* fix for predicting with batch_size > 1
