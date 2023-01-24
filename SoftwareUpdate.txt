@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
