@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
