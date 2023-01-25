@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add YOLOv8 LibTorch C++ inference example (#7090)
