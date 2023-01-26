@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add type hinting to explorer.py (#7388)
