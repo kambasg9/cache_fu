@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update Docs language dropdown height (#6927)
