@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
