@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
