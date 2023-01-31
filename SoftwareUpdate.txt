@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
