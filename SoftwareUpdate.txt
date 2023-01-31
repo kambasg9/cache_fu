@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Fixed RTDETR GFLOPs bug (#7309)
