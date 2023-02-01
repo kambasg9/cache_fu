@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
