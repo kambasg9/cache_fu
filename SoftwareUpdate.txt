@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add new @Retry() decorator (#7854)
