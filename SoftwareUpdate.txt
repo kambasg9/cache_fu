@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
