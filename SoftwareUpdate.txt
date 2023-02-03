@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Fix docker.yaml double-quote version bug (#7452)
