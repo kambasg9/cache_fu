@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+ultralytics 8.1.27 batched tracking fixes (#8842)
