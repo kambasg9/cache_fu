@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Compress docs images (#8124)
