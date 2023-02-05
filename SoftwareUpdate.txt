@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
