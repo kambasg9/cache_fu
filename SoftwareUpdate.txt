@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
