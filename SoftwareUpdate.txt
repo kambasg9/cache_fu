@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Optimize function calls to method calls (#8507)
