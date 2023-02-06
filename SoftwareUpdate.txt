@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
