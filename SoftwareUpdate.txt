@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+fix yolo classify model loading error (#9196)
