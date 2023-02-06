@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
