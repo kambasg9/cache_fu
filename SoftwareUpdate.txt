@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
