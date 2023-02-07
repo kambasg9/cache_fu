@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Fix OpenVINO missing batch-size bug (#9264)
