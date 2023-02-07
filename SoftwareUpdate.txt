@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix Yolo 8.0.206 scale bug (#7821)
