@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
