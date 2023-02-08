@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+update requirements.txt
