@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Update Dockerfile for Raspberry Pi Support (#8123)
