@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
