@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Python refactorings and simplifications (#7549)
