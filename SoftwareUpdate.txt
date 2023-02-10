@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add HUB-SDK Docs reference section (#7781)
