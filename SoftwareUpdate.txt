@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
