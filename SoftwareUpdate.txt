@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add C++ Classify inference example (#6868)
