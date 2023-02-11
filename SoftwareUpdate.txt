@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
