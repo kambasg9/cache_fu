@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Update Docs language dropdown height (#6927)
