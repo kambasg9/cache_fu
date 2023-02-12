@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Expand Model method type hinting (#8279)
