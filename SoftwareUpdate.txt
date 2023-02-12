@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
