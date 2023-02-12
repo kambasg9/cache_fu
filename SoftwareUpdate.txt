@@ -1,1 +1,1 @@
-fix non-coco val
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
