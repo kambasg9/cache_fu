@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add yolo_bbox2segment docs reference (#7751)
