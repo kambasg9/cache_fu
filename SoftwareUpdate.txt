@@ -1,1 +1,1 @@
-fix resume training
+add logs
