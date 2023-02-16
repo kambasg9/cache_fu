@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
