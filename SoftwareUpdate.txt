@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+YOLOv8 INT8 TFLite Inference Example (#7317)
