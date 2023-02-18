@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
