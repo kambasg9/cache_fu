@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+OBB: Fix plot_images (#7592)
