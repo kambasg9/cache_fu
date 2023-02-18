@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add PR Summary step to Ultralytics Actions (#7675)
