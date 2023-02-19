@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add docs guide terminal images (#8819)
