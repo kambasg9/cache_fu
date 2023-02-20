@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+YOLOv8 INT8 TFLite Inference Example (#7317)
