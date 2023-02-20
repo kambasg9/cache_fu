@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix device counting method to account for double-digit device IDs (#8502)
