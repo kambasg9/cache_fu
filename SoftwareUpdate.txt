@@ -1,1 +1,1 @@
-added badges (#45)
+Fix OpenVINO missing batch-size bug (#9264)
