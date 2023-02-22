@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Clarify triton server boolean value (#8532)
