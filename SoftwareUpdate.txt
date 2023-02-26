@@ -1,1 +1,1 @@
-fix val each epoch
+Add horizontal Mosaic3 augmentation (#6898)
