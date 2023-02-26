@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+docs: update view-results-in-terminal.md (#66)
