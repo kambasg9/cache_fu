@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
