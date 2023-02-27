@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
