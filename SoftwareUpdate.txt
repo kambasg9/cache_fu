@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
