@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix IS_PYTHON_3_12 bug (#9258)
