@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
