@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
