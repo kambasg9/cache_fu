@@ -1,1 +1,1 @@
-fix val each epoch
+Add Amazon Sagemaker Docs integrations page (#7293)
