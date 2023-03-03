@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+New test for labels and crops (#8861)
