@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add docs guide terminal images (#8819)
