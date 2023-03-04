@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
