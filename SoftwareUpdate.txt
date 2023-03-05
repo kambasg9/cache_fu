@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update CITATION.cff with cffinit corrections (#8658)
