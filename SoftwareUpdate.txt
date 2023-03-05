@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Add dota8.yaml and O tests (#7394)
