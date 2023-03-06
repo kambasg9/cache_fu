@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
