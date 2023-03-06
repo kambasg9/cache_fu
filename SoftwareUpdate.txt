@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
