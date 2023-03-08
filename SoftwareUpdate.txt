@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Update TFLite Docs images (#8605)
