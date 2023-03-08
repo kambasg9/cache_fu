@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add CoreML Docs Integrations Page (#8063)
