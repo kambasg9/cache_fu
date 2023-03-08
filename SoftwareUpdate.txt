@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Update CITATION.cff with cffinit corrections (#8658)
