@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Clean up unused imgsz (#7771)
