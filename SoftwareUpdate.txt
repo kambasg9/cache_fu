@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
