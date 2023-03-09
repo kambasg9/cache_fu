@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add PaddlePaddle Docs Integrations Page (#8858)
