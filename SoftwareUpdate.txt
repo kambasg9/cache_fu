@@ -1,1 +1,1 @@
-fix resume training
+Fix cmake requirements for ARM64 (#8589)
