@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
