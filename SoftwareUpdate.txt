@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Mkdocs annotations fixes (#7600)
