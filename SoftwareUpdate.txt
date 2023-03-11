@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
