@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add docstrings to new HUB functions (#7576)
