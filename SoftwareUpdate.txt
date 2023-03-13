@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add distance calculation feature in vision-eye (#8616)
