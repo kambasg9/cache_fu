@@ -1,1 +1,1 @@
-fix non-coco val
+Update pyproject.toml and Docs (#7274)
