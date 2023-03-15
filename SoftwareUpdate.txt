@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+OBB: Fix plot_images (#7592)
