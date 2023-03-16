@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Updated SQL Query Plot Code (#8120)
