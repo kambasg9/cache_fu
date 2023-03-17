@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
