@@ -1,1 +1,1 @@
-fix val each epoch
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
