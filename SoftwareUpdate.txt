@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
