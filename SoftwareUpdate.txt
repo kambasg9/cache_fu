@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update TFLite Docs images (#8605)
