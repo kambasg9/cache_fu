@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix docker.yaml double-quote version bug (#7452)
