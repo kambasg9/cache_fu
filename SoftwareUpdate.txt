@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update Twitter icon in Docs (#7711)
