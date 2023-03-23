@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Compress docs images (#8124)
