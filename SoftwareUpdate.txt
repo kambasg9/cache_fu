@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix PNNX ubuntu -> linux bug (#7050)
