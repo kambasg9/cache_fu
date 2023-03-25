@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+ultralytics 8.0.228 add training time argument (#7054)
