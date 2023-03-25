@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
