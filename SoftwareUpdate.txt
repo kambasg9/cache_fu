@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
