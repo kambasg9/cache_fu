@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add domain checks to CI docs page (#8714)
