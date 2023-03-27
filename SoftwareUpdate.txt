@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Fix ONNX GPU inference bug (#6840)
