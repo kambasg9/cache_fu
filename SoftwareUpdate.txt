@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
