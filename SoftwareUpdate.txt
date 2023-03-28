@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
