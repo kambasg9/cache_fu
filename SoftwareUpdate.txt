@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
