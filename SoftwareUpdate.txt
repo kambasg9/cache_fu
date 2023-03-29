@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
