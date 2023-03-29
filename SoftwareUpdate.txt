@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Use pathlib in DOTA ops (#7552)
