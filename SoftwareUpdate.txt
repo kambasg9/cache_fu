@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Updated SQL Query Plot Code (#8120)
