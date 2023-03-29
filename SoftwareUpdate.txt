@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add Amazon Sagemaker Docs integrations page (#7293)
