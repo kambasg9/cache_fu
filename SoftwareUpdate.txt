@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+New HUB Cloud Training docs page (#8174)
