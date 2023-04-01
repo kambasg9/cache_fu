@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
