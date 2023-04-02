@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Explorer with LanceDB, Actions and Docs updates (#7487)
