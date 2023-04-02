@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
