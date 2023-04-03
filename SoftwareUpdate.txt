@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+docs: update view-results-in-terminal.md (#66)
