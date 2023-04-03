@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+New HUB Cloud Training docs page (#8174)
