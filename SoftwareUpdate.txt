@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Auto-format by https://ultralytics.com/actions
