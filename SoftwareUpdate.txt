@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Fix docker.yaml double-quote version bug (#7452)
