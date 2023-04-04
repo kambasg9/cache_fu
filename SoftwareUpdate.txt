@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
