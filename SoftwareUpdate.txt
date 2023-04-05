@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Fix PNNX ubuntu -> linux bug (#7050)
