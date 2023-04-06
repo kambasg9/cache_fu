@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
