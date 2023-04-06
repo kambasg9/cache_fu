@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
