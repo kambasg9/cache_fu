@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
