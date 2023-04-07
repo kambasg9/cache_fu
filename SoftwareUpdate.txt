@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
