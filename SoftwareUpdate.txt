@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
