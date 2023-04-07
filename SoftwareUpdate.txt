@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+fix yolo classify model loading error (#9196)
