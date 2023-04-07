@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Update mkdocs.yml (#7693)
