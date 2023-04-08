@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Compare plt.get_backend() in lowercase (#8409)
