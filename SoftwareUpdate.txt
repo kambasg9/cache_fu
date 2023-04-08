@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update Docs Home and Neural Magic pages (#7243)
