@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Compare plt.get_backend() in lowercase (#8409)
