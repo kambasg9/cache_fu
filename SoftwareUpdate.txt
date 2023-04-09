@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Resize angle, count, and stage on keypoint number change (#7598)
