@@ -1,1 +1,1 @@
-fix resume training
+Fix OpenVINO links (#7930)
