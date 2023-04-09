@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
