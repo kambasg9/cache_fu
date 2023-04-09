@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
