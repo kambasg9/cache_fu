@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
