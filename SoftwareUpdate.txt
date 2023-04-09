@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
