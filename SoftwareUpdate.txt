@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add TensorBoard Docs integrations page (#7248)
