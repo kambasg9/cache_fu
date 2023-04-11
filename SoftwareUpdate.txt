@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Fix device counting method to account for double-digit device IDs (#8502)
