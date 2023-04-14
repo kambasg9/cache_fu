@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
