@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
