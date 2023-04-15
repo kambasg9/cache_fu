@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
