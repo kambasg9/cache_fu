@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Replace onnx2tf usage from CLI to Python (#8429)
