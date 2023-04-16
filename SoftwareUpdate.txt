@@ -1,1 +1,1 @@
-fix non-coco val
+Add plot_images conf_thresh parameter (#8446)
