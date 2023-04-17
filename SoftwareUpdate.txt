@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Improve Coral Edge TPU guide (#8160)
