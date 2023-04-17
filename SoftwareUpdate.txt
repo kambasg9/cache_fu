@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
