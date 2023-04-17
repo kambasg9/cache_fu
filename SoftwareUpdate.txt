@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
