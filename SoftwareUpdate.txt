@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
