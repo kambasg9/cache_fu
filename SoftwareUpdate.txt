@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update CITATION.cff with cffinit corrections (#8658)
