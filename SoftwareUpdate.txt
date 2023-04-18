@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
