@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
