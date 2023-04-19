@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+YAML reformat (#7669)
