@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
