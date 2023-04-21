@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Docs updates and improvements (#8183)
