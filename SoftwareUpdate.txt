@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Python refactorings and simplifications (#7549)
