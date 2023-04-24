@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
