@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
