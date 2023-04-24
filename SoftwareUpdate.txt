@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
