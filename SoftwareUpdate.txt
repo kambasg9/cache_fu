@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Optimize function calls to method calls (#8507)
