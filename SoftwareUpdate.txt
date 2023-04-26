@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
