@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
