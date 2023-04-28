@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update Colab notebook for YOLOv8.1 (#8660)
