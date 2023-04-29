@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
