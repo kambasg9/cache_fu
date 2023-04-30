@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add estimate_speed(region_color) parameter (#8285)
