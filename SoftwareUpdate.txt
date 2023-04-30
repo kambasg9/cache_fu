@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add OBB save_txt feature (#7450)
