@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
