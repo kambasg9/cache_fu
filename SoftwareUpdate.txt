@@ -1,1 +1,1 @@
-fix resume training
+Fix Neural Magic links (#9144)
