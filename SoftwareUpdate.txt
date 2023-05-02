@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add dota8.yaml and O tests (#7394)
