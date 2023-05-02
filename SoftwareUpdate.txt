@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Elaborate Train and Predict mode docs arguments (#8137)
