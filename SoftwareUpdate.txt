@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update Colab notebook for YOLOv8.1 (#8660)
