@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+fix yolo classify model loading error (#9196)
