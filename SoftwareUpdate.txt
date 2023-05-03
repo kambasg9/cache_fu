@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Fix Neural Magic links (#9144)
