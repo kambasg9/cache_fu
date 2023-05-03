@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Update Docs Home and Neural Magic pages (#7243)
