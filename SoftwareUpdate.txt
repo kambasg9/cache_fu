@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Fix xyxyxyxyn calculation in obb result (#8188)
