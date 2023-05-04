@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+OBB: Fix when training on zip data (#8680)
