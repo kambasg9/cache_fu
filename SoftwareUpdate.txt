@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+ultralytics 8.0.228 add training time argument (#7054)
