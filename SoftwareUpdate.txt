@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
