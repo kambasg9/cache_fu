@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
