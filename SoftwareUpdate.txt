@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
