@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Update CITATION.cff with cffinit corrections (#8658)
