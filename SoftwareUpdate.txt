@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Fix xyxyxyxyn calculation in obb result (#8188)
