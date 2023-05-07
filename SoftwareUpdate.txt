@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Optimize function calls to method calls (#8507)
