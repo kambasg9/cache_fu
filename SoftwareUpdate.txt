@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
