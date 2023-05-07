@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
