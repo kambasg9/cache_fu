@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
