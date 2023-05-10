@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
