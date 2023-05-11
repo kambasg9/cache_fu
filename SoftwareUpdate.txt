@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+fix for predicting with batch_size > 1 (#47)
