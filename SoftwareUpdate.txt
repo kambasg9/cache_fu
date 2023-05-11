@@ -1,1 +1,1 @@
-Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
+Add https://youtu.be/YDXKa1EljmU and https://youtu.be/5BO0Il_YYAg to Docs (#8958)
