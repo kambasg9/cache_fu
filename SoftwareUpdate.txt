@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
