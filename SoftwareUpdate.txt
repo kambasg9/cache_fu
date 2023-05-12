@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
