@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
