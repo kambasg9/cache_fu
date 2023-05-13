@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Feature: Create HUB Models from CLI or Python Script (#7316)
