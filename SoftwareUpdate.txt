@@ -1,1 +1,1 @@
-fix predict with class filter
+Update mkdocs.yml (#7693)
