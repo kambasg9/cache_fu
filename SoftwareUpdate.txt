@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add PR Summary step to Ultralytics Actions (#7675)
