@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update Discord and Contributing Guide URLs (#9270)
