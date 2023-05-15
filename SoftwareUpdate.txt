@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
