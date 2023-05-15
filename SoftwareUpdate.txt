@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Allow Annotator PIL.Image inputs (#8397)
