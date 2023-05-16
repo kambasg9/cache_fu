@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
