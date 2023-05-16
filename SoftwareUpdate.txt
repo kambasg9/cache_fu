@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Allow Annotator PIL.Image inputs (#8397)
