@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add docs guide terminal images (#8819)
