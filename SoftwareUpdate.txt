@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update neural-magic.md (#7347)
