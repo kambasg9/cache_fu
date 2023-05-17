@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Allow Annotator PIL.Image inputs (#8397)
