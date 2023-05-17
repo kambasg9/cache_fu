@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix OpenVINO missing batch-size bug (#9264)
