@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
