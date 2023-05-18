@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add simple-utilities.md Docs page (#8269)
