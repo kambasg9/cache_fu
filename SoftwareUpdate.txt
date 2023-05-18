@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+fix yolo classify model loading error (#9196)
