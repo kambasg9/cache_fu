@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+OBB: update metrics (#7593)
