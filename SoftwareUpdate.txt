@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Optimize function calls to method calls (#8507)
