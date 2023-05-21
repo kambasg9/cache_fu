@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
