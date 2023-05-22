@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add YOLOv8 LibTorch C++ inference example (#7090)
