@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Add OBB benchmarks to CI (#7777)
