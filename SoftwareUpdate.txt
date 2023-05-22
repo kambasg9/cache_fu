@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update Colab notebook for YOLOv8.1 (#8660)
