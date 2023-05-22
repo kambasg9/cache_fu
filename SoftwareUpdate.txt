@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Improve Coral Edge TPU guide (#8160)
