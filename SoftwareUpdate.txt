@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Segment TensorRT batch=3 fix (#7952)
