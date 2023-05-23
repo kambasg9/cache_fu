@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Clean up unused imgsz (#7771)
