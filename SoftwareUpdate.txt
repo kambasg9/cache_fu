@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
