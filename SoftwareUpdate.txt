@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Rename model_id to model.id (#8447)
