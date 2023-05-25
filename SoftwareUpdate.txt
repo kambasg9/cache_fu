@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Hold failed upload metrics and upload with next upload metrics (#8513)
