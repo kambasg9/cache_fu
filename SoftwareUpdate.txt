@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Reverse IoU threshold for NMS docs descriptions (#9151)
