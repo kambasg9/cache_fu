@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Explorer with LanceDB, Actions and Docs updates (#7487)
