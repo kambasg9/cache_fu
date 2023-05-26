@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
