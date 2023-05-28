@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
