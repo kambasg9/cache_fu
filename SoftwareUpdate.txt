@@ -1,1 +1,1 @@
-ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
