@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Merge pull request #22 from SkalskiP/patch-1
