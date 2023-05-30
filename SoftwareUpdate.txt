@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Replacing Images for torchscript.md (#8596)
