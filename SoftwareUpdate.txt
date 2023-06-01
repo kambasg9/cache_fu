@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fixed RTDETR GFLOPs bug (#7309)
