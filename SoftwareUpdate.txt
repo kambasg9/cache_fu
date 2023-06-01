@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
