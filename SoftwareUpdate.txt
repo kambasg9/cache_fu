@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add settings runs_dir == datasets_dir warning (#8653)
