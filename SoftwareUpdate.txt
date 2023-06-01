@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
