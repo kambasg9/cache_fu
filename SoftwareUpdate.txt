@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+fix yolo classify model loading error (#9196)
