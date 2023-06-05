@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
