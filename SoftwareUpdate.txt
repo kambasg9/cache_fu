@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Resize angle, count, and stage on keypoint number change (#7598)
