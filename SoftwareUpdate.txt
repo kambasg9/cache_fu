@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Fix cmake requirements for ARM64 (#8589)
