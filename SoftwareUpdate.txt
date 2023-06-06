@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
