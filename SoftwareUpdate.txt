@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
