@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
