@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Fix PNNX ubuntu -> linux bug (#7050)
