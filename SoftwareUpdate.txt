@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
