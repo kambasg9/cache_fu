@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
