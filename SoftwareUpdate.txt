@@ -1,1 +1,1 @@
-update README
+Fix PNNX ubuntu -> linux bug (#7050)
