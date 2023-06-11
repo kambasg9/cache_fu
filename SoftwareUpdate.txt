@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
