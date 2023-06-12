@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
