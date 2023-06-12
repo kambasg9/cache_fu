@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
