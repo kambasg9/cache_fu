@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
