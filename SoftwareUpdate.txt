@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Elaborate Train and Predict mode docs arguments (#8137)
