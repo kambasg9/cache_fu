@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Move Explorer tests to scheduled CI (#8305)
