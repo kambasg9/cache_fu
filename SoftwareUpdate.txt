@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add plot_images conf_thresh parameter (#8446)
