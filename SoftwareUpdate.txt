@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Pass callbacks to validator (#7320)
