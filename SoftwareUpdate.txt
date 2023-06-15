@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix OpenVINO missing batch-size bug (#9264)
