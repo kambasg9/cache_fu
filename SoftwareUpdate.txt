@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Fixed RTDETR GFLOPs bug (#7309)
