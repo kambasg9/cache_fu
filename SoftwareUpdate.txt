@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add quantization support to TensorFlow.js converter (#7008)
