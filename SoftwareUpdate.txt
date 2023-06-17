@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
