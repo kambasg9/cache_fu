@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
