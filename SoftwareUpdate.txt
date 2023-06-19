@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
