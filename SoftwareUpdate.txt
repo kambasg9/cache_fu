@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
