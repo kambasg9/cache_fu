@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
