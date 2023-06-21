@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
