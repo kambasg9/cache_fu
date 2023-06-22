@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
