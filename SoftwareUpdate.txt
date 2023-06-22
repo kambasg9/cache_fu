@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
