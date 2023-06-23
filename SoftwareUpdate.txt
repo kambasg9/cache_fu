@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
