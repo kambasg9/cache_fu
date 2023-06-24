@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
