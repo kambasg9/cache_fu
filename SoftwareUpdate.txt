@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
