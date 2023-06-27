@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update Twitter icon in Docs (#7711)
