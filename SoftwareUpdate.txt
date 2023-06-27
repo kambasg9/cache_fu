@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
