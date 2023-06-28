@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
