@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Update neural-magic.md (#7347)
