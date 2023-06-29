@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
