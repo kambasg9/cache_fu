@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Update neural-magic.md (#7347)
