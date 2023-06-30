@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
