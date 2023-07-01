@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
