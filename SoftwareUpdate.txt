@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Feature: Create HUB Models from CLI or Python Script (#7316)
