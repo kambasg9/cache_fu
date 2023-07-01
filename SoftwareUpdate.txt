@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
