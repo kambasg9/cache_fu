@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
