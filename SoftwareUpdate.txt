@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
