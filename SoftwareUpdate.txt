@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Cleanup Docs languages (#7865)
