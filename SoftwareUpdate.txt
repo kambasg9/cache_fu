@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Tracker: clean up GMC (#8003)
