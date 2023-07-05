@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
