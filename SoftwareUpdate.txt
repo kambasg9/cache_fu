@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Segment TensorRT batch=3 fix (#7952)
