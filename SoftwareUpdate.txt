@@ -1,1 +1,1 @@
-added badges (#45)
+Add NCNN Docs Integrations Page (#8562)
