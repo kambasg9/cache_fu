@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
