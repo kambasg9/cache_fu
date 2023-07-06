@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+docs: update view-results-in-terminal.md (#66)
