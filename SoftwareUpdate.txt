@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add Weights & Biases Docs integrations page (#7199)
