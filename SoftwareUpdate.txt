@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add yolo_bbox2segment docs reference (#7751)
