@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+added badges (#45)
