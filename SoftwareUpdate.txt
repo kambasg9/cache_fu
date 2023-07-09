@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Resize angle, count, and stage on keypoint number change (#7598)
