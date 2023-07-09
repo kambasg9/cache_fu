@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix IS_PYTHON_3_12 bug (#9258)
