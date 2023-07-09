@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Update Docs language dropdown height (#6927)
