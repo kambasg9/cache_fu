@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
