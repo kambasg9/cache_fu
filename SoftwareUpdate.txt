@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Fixed RTDETR GFLOPs bug (#7309)
