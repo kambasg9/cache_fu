@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
