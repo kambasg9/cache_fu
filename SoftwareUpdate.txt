@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
