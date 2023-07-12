@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
