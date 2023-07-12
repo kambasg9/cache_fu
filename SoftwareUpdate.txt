@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
