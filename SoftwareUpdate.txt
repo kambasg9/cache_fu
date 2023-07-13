@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update CITATION.cff with cffinit corrections (#8658)
