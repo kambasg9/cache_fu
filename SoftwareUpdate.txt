@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Fix OpenVINO links (#7930)
