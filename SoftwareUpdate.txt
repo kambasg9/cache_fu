@@ -1,1 +1,1 @@
-fix non-coco val
+Add PaddlePaddle Docs Integrations Page (#8858)
