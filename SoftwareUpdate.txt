@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+* fix for KeyError: 'epoch'
