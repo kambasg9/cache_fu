@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Update CI.md with CI links (#8786)
