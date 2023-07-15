@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
