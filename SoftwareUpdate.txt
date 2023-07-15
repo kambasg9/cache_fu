@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Add plot_images conf_thresh parameter (#8446)
