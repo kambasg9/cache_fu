@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
