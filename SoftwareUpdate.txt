@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
