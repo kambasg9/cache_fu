@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add Weights & Biases Docs integrations page (#7199)
