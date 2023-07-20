@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+fix for predicting with batch_size > 1 (#47)
