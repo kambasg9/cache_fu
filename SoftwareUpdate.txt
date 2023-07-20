@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Update Colab notebook for YOLOv8.1 (#8660)
