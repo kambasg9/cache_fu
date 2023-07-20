@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
