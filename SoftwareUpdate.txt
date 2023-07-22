@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix ONNX GPU inference bug (#6840)
