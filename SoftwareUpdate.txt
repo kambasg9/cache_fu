@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Update format.yml to pull_request_target (#7460)
