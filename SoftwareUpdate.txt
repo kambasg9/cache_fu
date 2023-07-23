@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Elaborate Train and Predict mode docs arguments (#8137)
