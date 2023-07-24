@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
