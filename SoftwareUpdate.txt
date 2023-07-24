@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Clean up unused imgsz (#7771)
