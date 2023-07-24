@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Compare plt.get_backend() in lowercase (#8409)
