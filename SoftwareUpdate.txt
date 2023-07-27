@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Docs partial mdformat improvements (#7378)
