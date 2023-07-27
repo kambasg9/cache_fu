@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Compress docs images (#8124)
