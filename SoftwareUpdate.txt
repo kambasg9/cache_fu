@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Fix RTDETR generate anchor grid out of boundary (#7247)
