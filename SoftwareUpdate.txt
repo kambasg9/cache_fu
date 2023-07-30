@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
