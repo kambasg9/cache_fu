@@ -1,1 +1,1 @@
-fix resume training
+docs: update view-results-in-terminal.md (#66)
