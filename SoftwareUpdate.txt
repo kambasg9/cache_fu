@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Updating a typo on paddlepaddle.md (#9108)
