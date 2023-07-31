@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
