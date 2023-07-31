@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Improve Coral Edge TPU guide (#8160)
