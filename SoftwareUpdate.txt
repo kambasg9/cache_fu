@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
