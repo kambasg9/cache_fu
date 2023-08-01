@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
