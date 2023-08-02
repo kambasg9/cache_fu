@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
