@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
