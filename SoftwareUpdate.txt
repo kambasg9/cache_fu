@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
