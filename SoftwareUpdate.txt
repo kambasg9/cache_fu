@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+docs: update view-results-in-terminal.md (#66)
