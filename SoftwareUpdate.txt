@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
