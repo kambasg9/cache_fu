@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
