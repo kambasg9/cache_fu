@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
