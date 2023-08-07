@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Expand Model method type hinting (#8279)
