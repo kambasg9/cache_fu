@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
