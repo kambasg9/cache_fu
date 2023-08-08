@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add Amazon Sagemaker Docs integrations page (#7293)
