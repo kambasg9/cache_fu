@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
