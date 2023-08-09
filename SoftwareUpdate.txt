@@ -1,1 +1,1 @@
-fix non-coco val
+Fixed RTDETR GFLOPs bug (#7309)
