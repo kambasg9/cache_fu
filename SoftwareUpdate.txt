@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Add PaddlePaddle Docs Integrations Page (#8858)
