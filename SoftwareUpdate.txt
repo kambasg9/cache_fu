@@ -1,1 +1,1 @@
-Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
