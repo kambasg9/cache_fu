@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
