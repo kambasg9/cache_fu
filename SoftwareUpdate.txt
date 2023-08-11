@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
