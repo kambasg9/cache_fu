@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
