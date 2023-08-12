@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
