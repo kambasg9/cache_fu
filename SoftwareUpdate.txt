@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update CI.md with CI links (#8786)
