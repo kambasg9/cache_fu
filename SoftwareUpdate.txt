@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
