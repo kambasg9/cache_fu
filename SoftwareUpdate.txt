@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
