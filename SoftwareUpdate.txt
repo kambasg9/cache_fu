@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Fix Yolo 8.0.206 scale bug (#7821)
