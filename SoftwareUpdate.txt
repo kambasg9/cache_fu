@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add PaddlePaddle Docs Integrations Page (#8858)
