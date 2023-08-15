@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
