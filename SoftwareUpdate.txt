@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+fix for predicting with batch_size > 1 (#47)
