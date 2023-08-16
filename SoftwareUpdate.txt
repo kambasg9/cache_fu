@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
