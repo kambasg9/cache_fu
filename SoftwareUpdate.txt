@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
