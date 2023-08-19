@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
