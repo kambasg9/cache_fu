@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
