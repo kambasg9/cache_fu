@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Explorer with LanceDB, Actions and Docs updates (#7487)
