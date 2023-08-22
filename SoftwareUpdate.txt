@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Update Docs Home and Neural Magic pages (#7243)
