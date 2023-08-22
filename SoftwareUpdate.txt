@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update H1 in Explorer API docs (#7813)
