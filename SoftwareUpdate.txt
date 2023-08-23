@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
