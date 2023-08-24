@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
