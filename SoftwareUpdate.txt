@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Retry once for Docker CI failures (#8164)
