@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Update Roboflow segmentation Docs pages (#8094)
