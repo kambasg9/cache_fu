@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix heatmaps width-height order bug (#7184)
