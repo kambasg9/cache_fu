@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
