@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
