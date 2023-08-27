@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add YOLOv8 LibTorch C++ inference example (#7090)
