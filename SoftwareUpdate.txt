@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Docs partial mdformat improvements (#7378)
