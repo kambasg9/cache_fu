@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix Neural Magic links (#9144)
