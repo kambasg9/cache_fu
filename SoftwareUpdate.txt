@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
