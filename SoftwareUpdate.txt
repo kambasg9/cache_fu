@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
