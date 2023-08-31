@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
