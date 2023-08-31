@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Feature: Create HUB Models from CLI or Python Script (#7316)
