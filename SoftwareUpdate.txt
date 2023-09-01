@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fix cmake requirements for ARM64 (#8589)
