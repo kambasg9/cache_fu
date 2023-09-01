@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add YOLOv8 LibTorch C++ inference example (#7090)
