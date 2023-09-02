@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
