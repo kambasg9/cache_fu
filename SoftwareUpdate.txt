@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
