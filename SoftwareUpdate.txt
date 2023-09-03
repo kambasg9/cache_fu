@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix PNNX ubuntu -> linux bug (#7050)
