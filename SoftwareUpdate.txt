@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add C++ Classify inference example (#6868)
