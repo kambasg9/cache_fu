@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
