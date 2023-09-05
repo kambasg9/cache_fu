@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add new @Retry() decorator (#7854)
