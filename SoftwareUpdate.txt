@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
