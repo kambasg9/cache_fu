@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add Amazon Sagemaker Docs integrations page (#7293)
