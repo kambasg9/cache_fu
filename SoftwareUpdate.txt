@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
