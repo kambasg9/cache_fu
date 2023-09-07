@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
