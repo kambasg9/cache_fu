@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
