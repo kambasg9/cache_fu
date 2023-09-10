@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
