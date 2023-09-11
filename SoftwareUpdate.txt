@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix OBB xywh-angle concatenation bug (#7404)
