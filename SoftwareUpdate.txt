@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
