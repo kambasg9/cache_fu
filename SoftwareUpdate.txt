@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Batch inference fixes (#8854)
