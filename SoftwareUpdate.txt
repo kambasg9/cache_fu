@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Resize angle, count, and stage on keypoint number change (#7598)
