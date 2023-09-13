@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update format.yml to pull_request_target (#7460)
