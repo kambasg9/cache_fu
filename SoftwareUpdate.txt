@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Optimize function calls to method calls (#8507)
