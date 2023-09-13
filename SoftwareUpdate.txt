@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
