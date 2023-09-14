@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+OpenVino 2024.0.0 (#8726)
