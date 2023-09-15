@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update mkdocs.yml (#7693)
