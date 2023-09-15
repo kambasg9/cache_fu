@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
