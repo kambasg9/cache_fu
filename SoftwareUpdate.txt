@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Update the heatmap module code + docs (#7045)
