@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add plot_images conf_thresh parameter (#8446)
