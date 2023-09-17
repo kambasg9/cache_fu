@@ -1,1 +1,1 @@
-add yolov10
+Fix docs links (#7096)
