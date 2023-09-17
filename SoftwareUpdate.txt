@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Batch inference fixes (#8854)
