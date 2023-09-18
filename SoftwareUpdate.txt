@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+ultralytics 8.1.33 fix HUB model checks (#9153)
