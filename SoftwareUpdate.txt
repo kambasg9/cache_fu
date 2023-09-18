@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
