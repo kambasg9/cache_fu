@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Update Discord and Contributing Guide URLs (#9270)
