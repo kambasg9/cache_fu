@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
