@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
