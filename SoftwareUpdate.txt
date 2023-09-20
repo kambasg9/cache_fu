@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Docs partial mdformat improvements (#7378)
