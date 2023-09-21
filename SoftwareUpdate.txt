@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
