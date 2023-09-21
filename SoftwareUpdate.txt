@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
