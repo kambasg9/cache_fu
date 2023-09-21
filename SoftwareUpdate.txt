@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
