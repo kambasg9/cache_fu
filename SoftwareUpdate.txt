@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Pass callbacks to validator (#7320)
