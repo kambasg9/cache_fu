@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add settings runs_dir == datasets_dir warning (#8653)
