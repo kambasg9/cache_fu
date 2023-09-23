@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Avoid creating -hub dir without processing images (#8334)
