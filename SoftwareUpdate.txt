@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
