@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update Twitter icon in Docs (#7711)
