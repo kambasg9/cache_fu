@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add dota8.yaml and O tests (#7394)
