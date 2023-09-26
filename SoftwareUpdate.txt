@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Mkdocs annotations fixes (#7600)
