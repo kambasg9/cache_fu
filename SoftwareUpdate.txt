@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Add YOLOv8 LibTorch C++ inference example (#7090)
