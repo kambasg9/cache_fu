@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
