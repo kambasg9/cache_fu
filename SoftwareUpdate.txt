@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Fix RTDETR generate anchor grid out of boundary (#7247)
