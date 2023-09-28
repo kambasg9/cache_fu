@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Avoid creating -hub dir without processing images (#8334)
