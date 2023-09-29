@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add Amazon Sagemaker Docs integrations page (#7293)
