@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add TF SavedModel Docs Integrations Page (#9162)
