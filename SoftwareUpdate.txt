@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Auto-format by https://ultralytics.com/actions
