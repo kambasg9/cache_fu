@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Elaborate Train and Predict mode docs arguments (#8137)
