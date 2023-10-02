@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add PaddlePaddle Docs Integrations Page (#8858)
