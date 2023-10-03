@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix OBB xywh-angle concatenation bug (#7404)
