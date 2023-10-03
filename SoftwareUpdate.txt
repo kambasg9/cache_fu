@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
