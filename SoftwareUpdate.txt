@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Feature: Create HUB Models from CLI or Python Script (#7316)
