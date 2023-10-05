@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add visuals in guides/distance-calculation.md (#7876)
