@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Pass callbacks to validator (#7320)
