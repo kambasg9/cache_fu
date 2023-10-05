@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
