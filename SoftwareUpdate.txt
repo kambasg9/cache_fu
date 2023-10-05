@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
