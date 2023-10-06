@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+OBB: Fix when training on zip data (#8680)
