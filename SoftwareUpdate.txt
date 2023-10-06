@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Explorer with LanceDB, Actions and Docs updates (#7487)
