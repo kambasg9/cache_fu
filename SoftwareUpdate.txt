@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Fix RTDETR generate anchor grid out of boundary (#7247)
