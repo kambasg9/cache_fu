@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Fix Yolo 8.0.206 scale bug (#7821)
