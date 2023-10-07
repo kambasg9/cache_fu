@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
