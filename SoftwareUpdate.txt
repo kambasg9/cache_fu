@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
