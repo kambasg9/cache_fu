@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Update OpenVINO INT8 export (#7515)
