@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Updating a typo on paddlepaddle.md (#9108)
