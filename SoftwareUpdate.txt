@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
