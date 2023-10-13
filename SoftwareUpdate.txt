@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Add estimate_speed(region_color) parameter (#8285)
