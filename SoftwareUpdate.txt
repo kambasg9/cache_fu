@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Rename model_id to model.id (#8447)
