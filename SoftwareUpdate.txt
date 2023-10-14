@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update fraction arg to employ a random selection (#8234)
