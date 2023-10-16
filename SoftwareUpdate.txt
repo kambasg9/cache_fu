@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
