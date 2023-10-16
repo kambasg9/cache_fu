@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Fix RTDETR generate anchor grid out of boundary (#7247)
