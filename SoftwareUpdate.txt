@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Hold failed upload metrics and upload with next upload metrics (#8513)
