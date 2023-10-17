@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Reverse IoU threshold for NMS docs descriptions (#9151)
