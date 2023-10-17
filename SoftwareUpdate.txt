@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
