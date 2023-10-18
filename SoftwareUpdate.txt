@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
