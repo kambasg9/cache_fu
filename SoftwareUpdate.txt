@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
