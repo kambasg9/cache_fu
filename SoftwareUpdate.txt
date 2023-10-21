@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+* fix for predicting with batch_size > 1
