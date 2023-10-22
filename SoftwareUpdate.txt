@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+fix yolo classify model loading error (#9196)
