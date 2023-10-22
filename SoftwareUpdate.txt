@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add OBB benchmarks to CI (#7777)
