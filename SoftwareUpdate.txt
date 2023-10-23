@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add C++ Classify inference example (#6868)
