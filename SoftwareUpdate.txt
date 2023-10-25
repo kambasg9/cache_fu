@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Replacing Images for torchscript.md (#8596)
