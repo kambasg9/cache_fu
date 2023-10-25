@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add docstrings to new HUB functions (#7576)
