@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
