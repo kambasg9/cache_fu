@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update Colab notebook for YOLOv8.1 (#8660)
