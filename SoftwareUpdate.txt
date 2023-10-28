@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
