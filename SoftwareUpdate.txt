@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update Colab notebook for YOLOv8.1 (#8660)
