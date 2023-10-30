@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Explorer with LanceDB, Actions and Docs updates (#7487)
