@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
