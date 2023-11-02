@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
