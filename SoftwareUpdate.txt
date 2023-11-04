@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
