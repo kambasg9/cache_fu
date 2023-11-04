@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
