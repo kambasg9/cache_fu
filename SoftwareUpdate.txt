@@ -1,1 +1,1 @@
-fix non-coco val
+Batch inference fixes (#8854)
