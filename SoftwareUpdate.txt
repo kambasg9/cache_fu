@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
