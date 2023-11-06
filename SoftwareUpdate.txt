@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
