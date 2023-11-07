@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add new YOLOv8 OBB model metrics (#7379)
