@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
