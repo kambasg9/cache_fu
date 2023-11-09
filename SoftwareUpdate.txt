@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Hold failed upload metrics and upload with next upload metrics (#8513)
