@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+YOLOv8 INT8 TFLite Inference Example (#7317)
