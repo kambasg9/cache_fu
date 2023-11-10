@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
