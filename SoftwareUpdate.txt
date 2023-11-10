@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Mkdocs annotations fixes (#7600)
