@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
