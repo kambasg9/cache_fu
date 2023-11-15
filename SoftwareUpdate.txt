@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add visuals in guides/distance-calculation.md (#7876)
