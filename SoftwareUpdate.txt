@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
