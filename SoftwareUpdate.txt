@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add Weights & Biases Docs integrations page (#7199)
