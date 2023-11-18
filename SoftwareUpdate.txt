@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add docstrings to new HUB functions (#7576)
