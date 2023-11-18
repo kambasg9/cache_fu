@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
