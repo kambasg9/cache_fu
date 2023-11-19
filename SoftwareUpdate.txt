@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
