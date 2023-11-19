@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
