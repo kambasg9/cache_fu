@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add HUB-SDK docs (#7775)
