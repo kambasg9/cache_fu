@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update format.yml to pull_request_target (#7460)
