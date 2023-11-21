@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
