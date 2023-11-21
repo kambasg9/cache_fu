@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
