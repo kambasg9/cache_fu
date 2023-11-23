@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
