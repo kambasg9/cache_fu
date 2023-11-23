@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
