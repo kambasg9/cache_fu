@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Fix TypeError in check_cfg() (#9245)
