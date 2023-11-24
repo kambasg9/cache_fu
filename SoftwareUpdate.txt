@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add yolo_bbox2segment docs reference (#7751)
