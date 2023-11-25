@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add Weights & Biases Docs integrations page (#7199)
