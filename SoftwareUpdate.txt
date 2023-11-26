@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
