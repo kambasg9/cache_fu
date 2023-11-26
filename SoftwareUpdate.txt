@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
