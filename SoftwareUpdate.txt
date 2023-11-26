@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
