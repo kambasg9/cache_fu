@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Allow Annotator PIL.Image inputs (#8397)
