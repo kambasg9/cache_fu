@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
