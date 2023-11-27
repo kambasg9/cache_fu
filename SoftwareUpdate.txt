@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix docker.yaml double-quote version bug (#7452)
