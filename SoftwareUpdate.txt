@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Resize angle, count, and stage on keypoint number change (#7598)
