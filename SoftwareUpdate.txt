@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
