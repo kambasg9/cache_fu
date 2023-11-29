@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Replace onnx2tf usage from CLI to Python (#8429)
