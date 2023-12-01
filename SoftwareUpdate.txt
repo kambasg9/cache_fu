@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Segment TensorRT batch=3 fix (#7952)
