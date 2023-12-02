@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
