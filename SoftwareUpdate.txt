@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
