@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
