@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Hold failed upload metrics and upload with next upload metrics (#8513)
