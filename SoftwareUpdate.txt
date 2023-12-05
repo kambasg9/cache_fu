@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+YOLOv8 INT8 TFLite Inference Example (#7317)
