@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+YOLOv8 INT8 TFLite Inference Example (#7317)
