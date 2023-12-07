@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Link checks SSL insecure robustness (#7853)
