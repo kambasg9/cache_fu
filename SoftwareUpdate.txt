@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
