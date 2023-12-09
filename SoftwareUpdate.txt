@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
