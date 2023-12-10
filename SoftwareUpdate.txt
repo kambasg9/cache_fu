@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
