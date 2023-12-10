@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
