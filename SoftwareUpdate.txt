@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
