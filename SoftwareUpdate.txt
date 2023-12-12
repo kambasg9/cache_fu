@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
