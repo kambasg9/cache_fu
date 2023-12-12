@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
