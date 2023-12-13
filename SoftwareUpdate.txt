@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add missing Explorer docs reference pages (#7455)
