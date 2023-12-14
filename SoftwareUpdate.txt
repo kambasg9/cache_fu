@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Replace onnx2tf usage from CLI to Python (#8429)
