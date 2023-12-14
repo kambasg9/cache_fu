@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Resize angle, count, and stage on keypoint number change (#7598)
