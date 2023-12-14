@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Capitalize OBB acronym (#7383)
