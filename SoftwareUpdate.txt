@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
