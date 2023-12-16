@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Mkdocs updates (#8008)
