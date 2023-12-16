@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Fix docker.yaml double-quote version bug (#7452)
