@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Add Weights & Biases Docs integrations page (#7199)
