@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add C++ Classify inference example (#6868)
