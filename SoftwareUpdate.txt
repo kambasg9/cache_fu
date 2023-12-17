@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Fix bbox2segment converter (#7814)
