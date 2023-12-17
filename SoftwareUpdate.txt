@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
