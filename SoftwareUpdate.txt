@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Updating a typo on paddlepaddle.md (#9108)
