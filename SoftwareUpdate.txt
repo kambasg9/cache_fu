@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Rename model_id to model.id (#8447)
