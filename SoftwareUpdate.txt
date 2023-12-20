@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
