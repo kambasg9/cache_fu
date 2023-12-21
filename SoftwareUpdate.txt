@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Allow Annotator PIL.Image inputs (#8397)
