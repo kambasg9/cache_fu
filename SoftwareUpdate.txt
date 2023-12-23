@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Python refactorings and simplifications (#7549)
