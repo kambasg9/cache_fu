@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Improve Docs arguments tables (#8415)
