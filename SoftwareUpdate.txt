@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix OpenVINO missing batch-size bug (#9264)
