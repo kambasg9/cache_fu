@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Updated SQL Query Plot Code (#8120)
