@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
