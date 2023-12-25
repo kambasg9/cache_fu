@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update the heatmap module code + docs (#7045)
