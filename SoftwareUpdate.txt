@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add integrations/gradio Docs page (#7935)
