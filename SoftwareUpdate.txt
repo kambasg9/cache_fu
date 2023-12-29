@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Mkdocs updates (#8008)
