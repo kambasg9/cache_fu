@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Hold failed upload metrics and upload with next upload metrics (#8513)
