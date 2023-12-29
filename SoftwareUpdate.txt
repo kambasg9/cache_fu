@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
