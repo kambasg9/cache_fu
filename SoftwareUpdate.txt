@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix docs links (#7096)
