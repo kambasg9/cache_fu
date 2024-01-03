@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add Amazon Sagemaker Docs integrations page (#7293)
