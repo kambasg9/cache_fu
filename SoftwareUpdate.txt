@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add quantization support to TensorFlow.js converter (#7008)
