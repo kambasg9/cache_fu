@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
