@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Update Discord and Contributing Guide URLs (#9270)
