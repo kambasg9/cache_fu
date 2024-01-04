@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
