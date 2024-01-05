@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
