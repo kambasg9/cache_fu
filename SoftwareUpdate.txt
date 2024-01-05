@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
