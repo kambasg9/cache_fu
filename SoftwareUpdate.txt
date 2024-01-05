@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Update pyproject.toml and Docs (#7274)
