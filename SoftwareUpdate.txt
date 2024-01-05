@@ -1,1 +1,1 @@
-fix predict with class filter
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
