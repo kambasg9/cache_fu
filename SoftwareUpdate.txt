@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Faster batch same_shapes (#8851)
