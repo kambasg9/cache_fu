@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix heatmaps width-height order bug (#7184)
