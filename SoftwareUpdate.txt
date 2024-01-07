@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Remove unused variables (#8511)
