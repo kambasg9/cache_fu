@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Clean up unused imgsz (#7771)
