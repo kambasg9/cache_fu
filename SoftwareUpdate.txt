@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Segment TensorRT batch=3 fix (#7952)
