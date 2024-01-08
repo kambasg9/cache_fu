@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
