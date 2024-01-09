@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+docs: update view-results-in-terminal.md (#66)
