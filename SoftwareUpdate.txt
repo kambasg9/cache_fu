@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Updated SQL Query Plot Code (#8120)
