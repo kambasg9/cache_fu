@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.0.229 add model.embed() method (#7098)
