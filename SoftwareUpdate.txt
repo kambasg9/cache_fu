@@ -1,1 +1,1 @@
-fix resume training
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
