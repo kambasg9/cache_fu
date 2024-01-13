@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Capitalize OBB acronym (#7383)
