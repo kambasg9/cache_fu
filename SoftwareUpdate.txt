@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add domain checks to CI docs page (#8714)
