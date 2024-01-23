@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
