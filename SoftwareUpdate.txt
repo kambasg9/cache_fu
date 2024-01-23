@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
