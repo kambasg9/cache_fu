@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update Discord and Contributing Guide URLs (#9270)
