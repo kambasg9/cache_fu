@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Fix Yolo 8.0.206 scale bug (#7821)
