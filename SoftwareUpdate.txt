@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Improve Coral Edge TPU guide (#8160)
