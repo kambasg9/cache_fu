@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add Neural Magic Docs integrations page (#7234)
