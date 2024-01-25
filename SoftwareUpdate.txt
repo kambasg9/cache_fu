@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
