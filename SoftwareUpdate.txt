@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
