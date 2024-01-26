@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+fix for KeyError: 'epoch' (#48)
