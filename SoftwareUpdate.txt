@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
