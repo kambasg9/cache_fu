@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
