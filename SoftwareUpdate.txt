@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
