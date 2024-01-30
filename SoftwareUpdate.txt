@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add PR Summary step to Ultralytics Actions (#7675)
