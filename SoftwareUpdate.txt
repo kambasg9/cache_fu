@@ -1,1 +1,1 @@
-fix print val map
+Updated SQL Query Plot Code (#8120)
