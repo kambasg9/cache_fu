@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
