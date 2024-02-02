@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
