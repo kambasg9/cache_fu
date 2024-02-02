@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
