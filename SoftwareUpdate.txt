@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update HTTP to HTTPS (#7548)
