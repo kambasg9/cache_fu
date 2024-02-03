@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+TensorRT FP16 export with dynamic=True (#7870)
