@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Elaborate Train and Predict mode docs arguments (#8137)
