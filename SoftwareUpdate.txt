@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Move Explorer tests to scheduled CI (#8305)
