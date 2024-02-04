@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add visuals in guides/distance-calculation.md (#7876)
