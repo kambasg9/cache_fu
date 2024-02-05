@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
