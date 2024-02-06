@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
