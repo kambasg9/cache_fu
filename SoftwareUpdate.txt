@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Elaborate Train and Predict mode docs arguments (#8137)
