@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix heatmaps width-height order bug (#7184)
