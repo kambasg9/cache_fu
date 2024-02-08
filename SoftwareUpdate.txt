@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Update Discord and Contributing Guide URLs (#9270)
