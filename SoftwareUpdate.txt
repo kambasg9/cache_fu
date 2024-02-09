@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add new @Retry() decorator (#7854)
