@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Rename model_id to model.id (#8447)
