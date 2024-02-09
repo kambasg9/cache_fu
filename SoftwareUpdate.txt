@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Fixed RTDETR GFLOPs bug (#7309)
