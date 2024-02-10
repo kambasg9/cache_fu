@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Pass callbacks to validator (#7320)
