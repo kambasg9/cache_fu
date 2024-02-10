@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
