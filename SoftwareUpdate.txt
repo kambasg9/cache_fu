@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Add HUB-SDK docs (#7775)
