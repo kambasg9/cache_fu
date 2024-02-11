@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update Dockerfile for Raspberry Pi Support (#8123)
