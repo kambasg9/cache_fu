@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
