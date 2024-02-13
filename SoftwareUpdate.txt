@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Explorer with LanceDB, Actions and Docs updates (#7487)
