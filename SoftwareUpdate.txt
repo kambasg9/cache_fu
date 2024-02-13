@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
