@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Explorer Cleanup (#7364)
