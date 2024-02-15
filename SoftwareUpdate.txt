@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Fix IS_PYTHON_3_12 bug (#9258)
