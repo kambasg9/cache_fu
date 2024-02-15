@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Link checks SSL insecure robustness (#7853)
