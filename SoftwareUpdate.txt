@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
