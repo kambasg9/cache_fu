@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Python refactorings and simplifications (#7549)
