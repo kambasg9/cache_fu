@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
