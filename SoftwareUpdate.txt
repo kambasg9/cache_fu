@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
