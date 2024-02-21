@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Feature: Create HUB Models from CLI or Python Script (#7316)
