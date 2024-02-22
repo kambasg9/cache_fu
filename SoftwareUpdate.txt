@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Reverse IoU threshold for NMS docs descriptions (#9151)
