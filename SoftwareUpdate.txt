@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
