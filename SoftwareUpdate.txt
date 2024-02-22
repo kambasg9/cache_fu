@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
