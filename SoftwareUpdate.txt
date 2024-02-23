@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
