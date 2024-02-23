@@ -1,1 +1,1 @@
-fix val each epoch
+Python refactorings and simplifications (#7549)
