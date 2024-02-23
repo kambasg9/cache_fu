@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Update CI.md with CI links (#8786)
