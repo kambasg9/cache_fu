@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
