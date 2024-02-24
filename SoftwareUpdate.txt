@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Explorer with LanceDB, Actions and Docs updates (#7487)
