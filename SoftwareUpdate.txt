@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Add HUB-SDK docs (#7775)
