@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
