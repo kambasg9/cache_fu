@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Python refactorings and simplifications (#7549)
