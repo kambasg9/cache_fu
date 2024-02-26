@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
