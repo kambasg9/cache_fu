@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
