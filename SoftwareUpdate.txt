@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
