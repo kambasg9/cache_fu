@@ -1,1 +1,1 @@
-update requirements.txt
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
