@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
