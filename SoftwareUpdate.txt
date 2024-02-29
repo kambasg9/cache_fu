@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
