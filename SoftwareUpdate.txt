@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Fix IS_PYTHON_3_12 bug (#9258)
