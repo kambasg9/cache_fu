@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
