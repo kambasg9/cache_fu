@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update CI.md with CI links (#8786)
