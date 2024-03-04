@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
