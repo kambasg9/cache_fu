@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Allow Annotator PIL.Image inputs (#8397)
