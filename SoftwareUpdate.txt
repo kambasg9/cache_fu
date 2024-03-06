@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
