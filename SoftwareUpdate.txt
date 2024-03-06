@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Update Colab notebook for YOLOv8.1 (#8660)
