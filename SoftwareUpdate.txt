@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
