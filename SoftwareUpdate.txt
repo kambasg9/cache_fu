@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Update Colab notebook for YOLOv8.1 (#8660)
