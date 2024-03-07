@@ -1,1 +1,1 @@
-added badges (#45)
+Fix Neural Magic links (#9144)
