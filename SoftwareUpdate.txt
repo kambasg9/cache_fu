@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add plot_images conf_thresh parameter (#8446)
