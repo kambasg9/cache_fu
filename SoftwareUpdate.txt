@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Update the heatmap module code + docs (#7045)
