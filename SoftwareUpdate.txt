@@ -1,1 +1,1 @@
-fix print val map
+Fix PIL show() and save() (#8202)
