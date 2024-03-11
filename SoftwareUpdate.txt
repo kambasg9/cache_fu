@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Model typehints Docker fix (#8306)
