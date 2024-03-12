@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
