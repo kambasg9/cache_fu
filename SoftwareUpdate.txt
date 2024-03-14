@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Add PR Summary step to Ultralytics Actions (#7675)
