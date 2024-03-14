@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Fix docker.yaml double-quote version bug (#7452)
