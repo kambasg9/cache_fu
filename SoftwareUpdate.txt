@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update mkdocs.yml (#7693)
