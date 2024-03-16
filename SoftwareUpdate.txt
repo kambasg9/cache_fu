@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
