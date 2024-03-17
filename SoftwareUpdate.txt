@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+New HUB Cloud Training docs page (#8174)
