@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
