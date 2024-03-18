@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Batch inference fixes (#8854)
