@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
