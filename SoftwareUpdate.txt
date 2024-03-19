@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Update CITATION.cff with cffinit corrections (#8658)
