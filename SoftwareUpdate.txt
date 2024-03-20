@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update docs building code (#7601)
