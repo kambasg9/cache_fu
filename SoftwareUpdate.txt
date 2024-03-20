@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
