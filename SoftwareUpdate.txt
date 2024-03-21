@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
