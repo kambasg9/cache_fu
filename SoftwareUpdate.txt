@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Capitalize OBB acronym (#7383)
