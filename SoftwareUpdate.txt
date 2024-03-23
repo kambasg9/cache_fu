@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
