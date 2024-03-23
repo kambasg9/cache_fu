@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Add visuals in guides/distance-calculation.md (#7876)
