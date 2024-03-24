@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Auto-format by https://ultralytics.com/actions
