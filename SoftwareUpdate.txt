@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Fix RTDETR generate anchor grid out of boundary (#7247)
