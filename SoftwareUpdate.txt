@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Update HTTP to HTTPS (#7548)
