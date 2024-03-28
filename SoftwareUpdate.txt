@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
