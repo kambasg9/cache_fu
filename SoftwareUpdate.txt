@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fix Multi-GPU resume bug (#7328)
