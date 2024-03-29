@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
