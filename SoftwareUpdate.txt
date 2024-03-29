@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Improve Docs arguments tables (#8415)
