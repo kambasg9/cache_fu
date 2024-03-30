@@ -1,1 +1,1 @@
-Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
