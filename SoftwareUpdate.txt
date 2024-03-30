@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Mkdocs updates (#8008)
