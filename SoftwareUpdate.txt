@@ -1,1 +1,1 @@
-fix predict with class filter
+Add estimate_speed(region_color) parameter (#8285)
