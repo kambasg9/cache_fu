@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
