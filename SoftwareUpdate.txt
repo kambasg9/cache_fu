@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
