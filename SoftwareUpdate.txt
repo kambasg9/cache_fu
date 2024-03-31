@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Update HTTP to HTTPS (#7548)
