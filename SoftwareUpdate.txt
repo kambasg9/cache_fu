@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+New HUB Cloud Training docs page (#8174)
