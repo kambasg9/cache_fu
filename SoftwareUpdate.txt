@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Add visuals in guides/distance-calculation.md (#7876)
