@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
