@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
