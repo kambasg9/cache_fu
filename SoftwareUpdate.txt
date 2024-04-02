@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
