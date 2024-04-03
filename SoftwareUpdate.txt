@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
