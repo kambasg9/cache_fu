@@ -1,1 +1,1 @@
-fix non-coco val
+fix val each epoch
