@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
