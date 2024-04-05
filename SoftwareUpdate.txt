@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
