@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
