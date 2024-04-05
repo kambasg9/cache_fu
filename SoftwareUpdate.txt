@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add horizontal Mosaic3 augmentation (#6898)
