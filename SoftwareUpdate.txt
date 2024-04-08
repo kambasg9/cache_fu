@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Update fraction arg to employ a random selection (#8234)
