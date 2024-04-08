@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
