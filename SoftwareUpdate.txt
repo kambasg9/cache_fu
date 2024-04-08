@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fixed RTDETR GFLOPs bug (#7309)
