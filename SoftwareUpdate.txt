@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
