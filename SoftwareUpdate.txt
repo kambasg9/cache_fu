@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
