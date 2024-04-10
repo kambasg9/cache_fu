@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
