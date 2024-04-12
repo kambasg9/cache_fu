@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Merge pull request #22 from SkalskiP/patch-1
