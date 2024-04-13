@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add docstrings to new HUB functions (#7576)
