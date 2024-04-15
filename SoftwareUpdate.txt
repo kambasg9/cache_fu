@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
