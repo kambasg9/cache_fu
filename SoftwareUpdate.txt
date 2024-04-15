@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Python refactorings and simplifications (#7549)
