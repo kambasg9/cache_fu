@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
