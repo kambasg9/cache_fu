@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Update pyproject.toml and Docs (#7274)
