@@ -1,1 +1,1 @@
-fix non-coco val
+OpenVino 2024.0.0 (#8726)
