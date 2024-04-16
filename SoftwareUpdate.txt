@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Fix TypeError in check_cfg() (#9245)
