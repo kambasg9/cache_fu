@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Fix PNNX ubuntu -> linux bug (#7050)
