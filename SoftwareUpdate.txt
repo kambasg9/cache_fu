@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update format.yml to pull_request_target (#7460)
