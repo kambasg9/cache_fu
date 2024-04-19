@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
