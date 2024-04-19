@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Move Explorer tests to scheduled CI (#8305)
