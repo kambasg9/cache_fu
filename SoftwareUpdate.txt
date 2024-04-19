@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Fix docker.yaml double-quote version bug (#7452)
