@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
