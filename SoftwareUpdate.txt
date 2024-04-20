@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
