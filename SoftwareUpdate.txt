@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
