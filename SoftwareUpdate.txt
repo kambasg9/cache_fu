@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
