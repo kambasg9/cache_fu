@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Update Discord and Contributing Guide URLs (#9270)
