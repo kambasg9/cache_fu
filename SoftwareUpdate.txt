@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Explorer with LanceDB, Actions and Docs updates (#7487)
