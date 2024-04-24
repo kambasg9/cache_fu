@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Update Docs Home and Neural Magic pages (#7243)
