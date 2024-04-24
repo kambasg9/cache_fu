@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix Multi-GPU resume bug (#7328)
