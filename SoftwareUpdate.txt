@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+docs: update view-results-in-terminal.md (#66)
