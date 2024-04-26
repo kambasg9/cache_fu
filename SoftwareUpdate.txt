@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
