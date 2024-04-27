@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix TypeError in check_cfg() (#9245)
