@@ -1,1 +1,1 @@
-added badges (#45)
+Remove unused variables (#8511)
