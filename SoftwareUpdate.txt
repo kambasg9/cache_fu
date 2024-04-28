@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+OBB: Fix plot_images (#7592)
