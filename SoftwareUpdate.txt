@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add new YOLOv8 OBB model metrics (#7379)
