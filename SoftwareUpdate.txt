@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
