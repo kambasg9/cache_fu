@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
