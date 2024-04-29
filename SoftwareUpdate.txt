@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
