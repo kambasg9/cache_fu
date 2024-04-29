@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update HTTP to HTTPS (#7548)
