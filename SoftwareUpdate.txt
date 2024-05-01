@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
