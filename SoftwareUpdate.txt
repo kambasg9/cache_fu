@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add YOLOv8 LibTorch C++ inference example (#7090)
