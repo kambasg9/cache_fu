@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
