@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Clean up unused imgsz (#7771)
