@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Mkdocs annotations fixes (#7600)
