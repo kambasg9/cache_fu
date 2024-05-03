@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
