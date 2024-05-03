@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+fix for predicting with batch_size > 1 (#47)
