@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Docs partial mdformat improvements (#7378)
