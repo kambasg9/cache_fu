@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Bounding Box to OBB conversion (#7572)
