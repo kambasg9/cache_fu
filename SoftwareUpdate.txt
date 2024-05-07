@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Docs partial mdformat improvements (#7378)
