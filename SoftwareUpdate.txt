@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
