@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add docs guide terminal images (#8819)
