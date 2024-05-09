@@ -1,1 +1,1 @@
-add yolov10
+Update Discord and Contributing Guide URLs (#9270)
