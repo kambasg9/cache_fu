@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Fix PNNX ubuntu -> linux bug (#7050)
