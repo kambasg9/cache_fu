@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
