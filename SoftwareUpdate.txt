@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
