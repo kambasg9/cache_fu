@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update CI.md with CI links (#8786)
