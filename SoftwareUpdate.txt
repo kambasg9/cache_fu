@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update Discord and Contributing Guide URLs (#9270)
