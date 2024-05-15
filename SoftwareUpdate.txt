@@ -1,1 +1,1 @@
-fix predict with class filter
+Update format.yml to pull_request_target (#7460)
