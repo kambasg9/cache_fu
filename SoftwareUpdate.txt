@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
