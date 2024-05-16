@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
