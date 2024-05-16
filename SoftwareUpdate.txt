@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Batch inference fixes (#8854)
