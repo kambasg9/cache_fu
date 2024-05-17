@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
