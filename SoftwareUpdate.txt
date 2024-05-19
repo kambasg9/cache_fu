@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+OpenVino 2024.0.0 (#8726)
