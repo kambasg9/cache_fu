@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Improve Docs Modes tables (#8266)
