@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
