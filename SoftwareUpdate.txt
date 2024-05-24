@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add Neural Magic Docs integrations page (#7234)
