@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
