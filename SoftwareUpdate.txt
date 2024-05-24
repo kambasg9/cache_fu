@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Merge pull request #22 from SkalskiP/patch-1
