@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
