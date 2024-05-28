@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Object Counter improvements (#8648)
