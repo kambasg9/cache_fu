@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+ultralytics 8.0.229 add model.embed() method (#7098)
