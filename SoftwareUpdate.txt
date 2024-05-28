@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
