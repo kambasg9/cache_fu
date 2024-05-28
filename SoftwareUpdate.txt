@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
