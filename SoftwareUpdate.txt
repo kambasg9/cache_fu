@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
