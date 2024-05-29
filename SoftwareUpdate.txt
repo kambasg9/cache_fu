@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
