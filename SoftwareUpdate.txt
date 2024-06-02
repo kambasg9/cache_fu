@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
