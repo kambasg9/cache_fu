@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Expand Model method type hinting (#8279)
