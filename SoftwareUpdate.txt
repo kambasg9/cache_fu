@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Improve Docs Modes tables (#8266)
