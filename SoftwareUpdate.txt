@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Clean up unused imgsz (#7771)
