@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
