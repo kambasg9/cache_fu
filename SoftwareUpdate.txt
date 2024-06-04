@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Feature: Create HUB Models from CLI or Python Script (#7316)
