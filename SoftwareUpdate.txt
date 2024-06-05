@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
