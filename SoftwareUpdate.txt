@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Fix IS_PYTHON_3_12 bug (#9258)
