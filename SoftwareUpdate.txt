@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add docs guide terminal images (#8819)
