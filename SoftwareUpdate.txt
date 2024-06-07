@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Replace onnx2tf usage from CLI to Python (#8429)
