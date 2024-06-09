@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
