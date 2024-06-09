@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
