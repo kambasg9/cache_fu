@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Update fraction arg to employ a random selection (#8234)
