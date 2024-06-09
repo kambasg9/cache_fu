@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Explorer with LanceDB, Actions and Docs updates (#7487)
