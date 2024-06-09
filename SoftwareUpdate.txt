@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+YOLOv8 INT8 TFLite Inference Example (#7317)
