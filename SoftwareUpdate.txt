@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+fix for predicting with batch_size > 1 (#47)
