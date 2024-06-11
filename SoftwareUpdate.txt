@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
