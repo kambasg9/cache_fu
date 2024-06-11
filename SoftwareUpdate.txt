@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
