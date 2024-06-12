@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update the heatmap module code + docs (#7045)
