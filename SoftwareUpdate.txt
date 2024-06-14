@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Fix RTDETR generate anchor grid out of boundary (#7247)
