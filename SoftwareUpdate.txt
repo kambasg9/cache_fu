@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Cleanup Docs languages (#7865)
