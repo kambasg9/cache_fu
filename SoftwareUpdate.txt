@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
