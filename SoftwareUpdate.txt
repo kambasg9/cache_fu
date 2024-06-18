@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add quantization support to TensorFlow.js converter (#7008)
