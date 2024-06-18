@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add new YOLOv8 OBB model metrics (#7379)
