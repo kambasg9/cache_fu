@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
