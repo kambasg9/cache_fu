@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add C++ Classify inference example (#6868)
