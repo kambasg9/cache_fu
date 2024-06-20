@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Fix cmake requirements for ARM64 (#8589)
