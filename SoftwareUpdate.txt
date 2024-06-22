@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
