@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Expand Model method type hinting (#8279)
