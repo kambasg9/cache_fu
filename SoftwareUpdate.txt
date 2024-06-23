@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add YOLOv8 LibTorch C++ inference example (#7090)
