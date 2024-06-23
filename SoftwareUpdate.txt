@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
