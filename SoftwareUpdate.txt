@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
