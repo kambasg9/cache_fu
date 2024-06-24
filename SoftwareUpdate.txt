@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Updated SQL Query Plot Code (#8120)
