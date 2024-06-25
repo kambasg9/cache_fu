@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
