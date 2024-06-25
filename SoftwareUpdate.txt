@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Use pathlib in DOTA ops (#7552)
