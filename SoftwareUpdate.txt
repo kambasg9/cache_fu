@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+YOLOv8 INT8 TFLite Inference Example (#7317)
