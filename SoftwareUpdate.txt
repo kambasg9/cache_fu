@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add estimate_speed(region_color) parameter (#8285)
