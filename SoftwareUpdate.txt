@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
