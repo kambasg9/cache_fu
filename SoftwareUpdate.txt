@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
