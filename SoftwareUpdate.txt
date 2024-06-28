@@ -1,1 +1,1 @@
-Add Roboflow 100 Dataset Docs Page (#8065)
+Allow Annotator PIL.Image inputs (#8397)
