@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
