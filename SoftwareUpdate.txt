@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add YOLOv8 LibTorch C++ inference example (#7090)
