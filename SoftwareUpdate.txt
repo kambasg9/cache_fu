@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
