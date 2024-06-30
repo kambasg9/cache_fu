@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
