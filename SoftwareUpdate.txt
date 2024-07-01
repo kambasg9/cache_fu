@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+ADD | opnecv c++ Onnx integration (#70)
