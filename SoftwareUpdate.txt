@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
