@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+OBB: Fix when training on zip data (#8680)
