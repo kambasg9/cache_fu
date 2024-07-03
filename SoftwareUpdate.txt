@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Update fraction arg to employ a random selection (#8234)
