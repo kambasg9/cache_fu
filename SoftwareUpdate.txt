@@ -1,1 +1,1 @@
-Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
