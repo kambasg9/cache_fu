@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Mkdocs annotations fixes (#7600)
