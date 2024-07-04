@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
