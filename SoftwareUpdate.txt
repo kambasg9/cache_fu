@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
