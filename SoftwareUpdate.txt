@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Clean up unused imgsz (#7771)
