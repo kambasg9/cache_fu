@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add integrations/gradio Docs page (#7935)
