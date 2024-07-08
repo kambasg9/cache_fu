@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
