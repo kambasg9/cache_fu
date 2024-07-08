@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Move Explorer tests to scheduled CI (#8305)
