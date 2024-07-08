@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Update Docs Home and Neural Magic pages (#7243)
