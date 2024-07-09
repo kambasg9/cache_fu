@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
