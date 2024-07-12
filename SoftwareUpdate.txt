@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Update Docs language dropdown height (#6927)
