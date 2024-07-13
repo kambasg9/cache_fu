@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update mkdocs.yml (#7693)
