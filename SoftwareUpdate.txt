@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
