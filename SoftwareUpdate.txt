@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add type hinting to explorer.py (#7388)
