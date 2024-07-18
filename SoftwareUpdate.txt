@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Object Counter improvements (#8648)
