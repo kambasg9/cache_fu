@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
