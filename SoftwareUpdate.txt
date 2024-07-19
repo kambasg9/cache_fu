@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
