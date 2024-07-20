@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+Update Docs Home and Neural Magic pages (#7243)
