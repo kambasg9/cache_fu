@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
