@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update Discord and Contributing Guide URLs (#9270)
