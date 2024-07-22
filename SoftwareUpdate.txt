@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
