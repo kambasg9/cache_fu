@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
