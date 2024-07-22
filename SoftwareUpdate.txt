@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update pyproject.toml and Docs (#7274)
