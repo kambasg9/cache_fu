@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Improve Docs arguments tables (#8415)
