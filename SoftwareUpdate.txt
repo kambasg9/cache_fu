@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Segment TensorRT batch=3 fix (#7952)
