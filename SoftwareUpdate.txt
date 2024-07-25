@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add PR Summary step to Ultralytics Actions (#7675)
