@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
