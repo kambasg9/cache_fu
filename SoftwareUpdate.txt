@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
