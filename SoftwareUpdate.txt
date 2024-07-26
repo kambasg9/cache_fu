@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Elaborate Train and Predict mode docs arguments (#8137)
