@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update inference.cpp (bug) (#7279)
