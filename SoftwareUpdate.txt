@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update Roboflow segmentation Docs pages (#8094)
