@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Allow Annotator PIL.Image inputs (#8397)
