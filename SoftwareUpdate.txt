@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix Neural Magic links (#9144)
