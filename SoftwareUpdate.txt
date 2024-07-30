@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Reverse IoU threshold for NMS docs descriptions (#9151)
