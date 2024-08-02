@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update OpenVINO INT8 export (#7515)
