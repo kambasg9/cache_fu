@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Fix RTDETR generate anchor grid out of boundary (#7247)
