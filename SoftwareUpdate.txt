@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Optimize function calls to method calls (#8507)
