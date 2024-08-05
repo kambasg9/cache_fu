@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+docs: update view-results-in-terminal.md (#66)
