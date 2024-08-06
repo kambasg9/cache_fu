@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
