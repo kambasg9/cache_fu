@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Fix xyxyxyxyn calculation in obb result (#8188)
