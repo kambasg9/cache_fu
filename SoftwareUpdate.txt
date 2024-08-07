@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
