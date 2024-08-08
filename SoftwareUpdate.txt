@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Allow Annotator PIL.Image inputs (#8397)
