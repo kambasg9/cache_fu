@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add Amazon Sagemaker Docs integrations page (#7293)
