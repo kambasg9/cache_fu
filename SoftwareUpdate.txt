@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add visuals in guides/distance-calculation.md (#7876)
