@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
