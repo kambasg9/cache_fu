@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
