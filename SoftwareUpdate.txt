@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update docs building code (#7601)
