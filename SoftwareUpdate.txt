@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
