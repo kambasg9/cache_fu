@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fix PNNX ubuntu -> linux bug (#7050)
