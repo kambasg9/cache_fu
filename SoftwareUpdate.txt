@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
