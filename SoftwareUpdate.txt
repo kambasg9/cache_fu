@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
