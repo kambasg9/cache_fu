@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
