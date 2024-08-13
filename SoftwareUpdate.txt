@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Update CITATION.cff with cffinit corrections (#8658)
