@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Update H1 in Explorer API docs (#7813)
