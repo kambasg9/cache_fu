@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
