@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
