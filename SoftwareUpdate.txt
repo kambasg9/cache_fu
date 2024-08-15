@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Feature: Create HUB Models from CLI or Python Script (#7316)
