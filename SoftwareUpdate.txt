@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix PNNX ubuntu -> linux bug (#7050)
