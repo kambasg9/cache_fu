@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
