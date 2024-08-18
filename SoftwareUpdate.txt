@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
