@@ -1,1 +1,1 @@
-added badges (#45)
+Update Roboflow segmentation Docs pages (#8094)
