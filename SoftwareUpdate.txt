@@ -1,1 +1,1 @@
-fix predict with class filter
+Expand Model method type hinting (#8279)
