@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
