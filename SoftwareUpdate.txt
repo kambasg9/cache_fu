@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+ultralytics 8.0.229 add model.embed() method (#7098)
