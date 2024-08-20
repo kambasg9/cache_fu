@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Move Explorer tests to scheduled CI (#8305)
