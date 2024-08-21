@@ -1,1 +1,1 @@
-example Google Colab
+Update TFLite Docs images (#8605)
