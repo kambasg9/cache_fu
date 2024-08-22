@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
