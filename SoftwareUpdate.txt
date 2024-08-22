@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix Neural Magic links (#9144)
