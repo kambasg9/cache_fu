@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
