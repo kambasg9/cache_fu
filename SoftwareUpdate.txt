@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Fix PNNX ubuntu -> linux bug (#7050)
