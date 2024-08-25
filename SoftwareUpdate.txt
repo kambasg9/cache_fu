@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
