@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Update OpenVINO INT8 export (#7515)
