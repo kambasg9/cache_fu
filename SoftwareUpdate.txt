@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
