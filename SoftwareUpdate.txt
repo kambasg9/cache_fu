@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
