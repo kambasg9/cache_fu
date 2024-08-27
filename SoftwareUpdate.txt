@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Clarify triton server boolean value (#8532)
