@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Update Dockerfile for Raspberry Pi Support (#8123)
