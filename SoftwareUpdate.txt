@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
