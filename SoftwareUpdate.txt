@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
