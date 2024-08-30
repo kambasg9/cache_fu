@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
