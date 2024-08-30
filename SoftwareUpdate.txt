@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
