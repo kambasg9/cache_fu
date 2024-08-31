@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Rename model_id to model.id (#8447)
