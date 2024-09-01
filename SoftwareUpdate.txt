@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
