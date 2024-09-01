@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
