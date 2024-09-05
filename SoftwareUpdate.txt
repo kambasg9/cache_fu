@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Updating a typo on paddlepaddle.md (#9108)
