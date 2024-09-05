@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
