@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
