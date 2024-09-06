@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
