@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
