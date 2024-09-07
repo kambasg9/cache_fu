@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Update OpenVINO INT8 export (#7515)
