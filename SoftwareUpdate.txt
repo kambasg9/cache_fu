@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add YOLOv8 LibTorch C++ inference example (#7090)
