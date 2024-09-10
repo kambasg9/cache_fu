@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Fix Yolo 8.0.206 scale bug (#7821)
