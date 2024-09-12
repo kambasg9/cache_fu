@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
