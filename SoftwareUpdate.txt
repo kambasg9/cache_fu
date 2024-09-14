@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
