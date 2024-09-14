@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Replace onnx2tf usage from CLI to Python (#8429)
